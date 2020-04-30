@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/production/05_32_SearchEngine" />
+    <output-test url="file://$MODULE_DIR$/out/test/05_32_SearchEngine" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="junit" level="project" />
+    <orderEntry type="library" name="org.hamcrest.core_1.3.0.v201303031735" level="project" />
+  </component>
+</module>

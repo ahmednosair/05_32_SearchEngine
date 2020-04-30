@@ -1,0 +1,722 @@
+<?xml version="1.0" ?>
+<class>
+
+    <doc id="7702780" url="https://en.wikipedia.org/wiki?curid=7702780" title="Source routing">
+        Source routing
+        In computer networking source routing also called path addressing allows a sender of a packet to partially or
+        completely specify the route the packet takes through the network In contrast in conventional routing routers in
+        the network determine the path incrementally based on the packets destination Another routing alternative label
+        switching is used in connectionoriented networks such as X25 frame relay ATM and MPLS
+
+        Source routing allows easier troubleshooting improved traceroute and enables a node to discover all the possible
+        routes to a host It does not allow a source to directly manage network performance by forcing packets to travel
+        over one path to prevent congestion on another
+
+        Many highperformance interconnects including Myrinet Quadrics IEEE 1355 and SpaceWire support source routing
+
+        In the Internet Protocol two header options are available which are rarely used strict source and record route
+        SSRR and loose source and record route LSRR Because of security concerns packets marked LSRR are frequently
+        blocked on the Internet If not blocked LSRR can allow an attacker to spoof its address but still successfully
+        receive response packets
+
+        In IPv6 two forms of source routing have been developed The first approach was the Type 0 Routing header This
+        routing header was designed to support the same use cases as the IPv4 header options Unfortunately there were
+        several important attacks against this routing header and its utilisation was deprecated A more secure form of
+        source routing is being developed within the IETF to support the IPv6 version of Segment Routing
+
+        Softwaredefined networking can also be enhanced when source routing is used in the forwarding plane Studies have
+        shown significant improvements in convergence times as a result of the reduced state that must be distributed by
+        the controller into the network
+
+        When using source routing with Myrinet the sender of the packet prepends the complete route one byte for every
+        crossbar to each packet header
+        Each crossbar examines the first routing byte of the packet
+        When using source routing that byte indicates a particular port of that crossbar when that port becomes
+        available the router discards that routing byte and sends the rest of the packet out that port
+
+        Each packet traveling through a SpaceWire network can use path addressing source routing or logical addressing
+        or some combination
+        The router examines the first data character of the packet when it indicates some specific port of the router
+        the router discards that routing character and sends the rest of the packet out that port
+
+
+    </doc>
+    <doc id="7702785" url="https://en.wikipedia.org/wiki?curid=7702785" title="Cuba at the 1904 Summer Olympics">
+        Cuba at the 1904 Summer Olympics
+        Cuba competed at the 1904 Summer Olympics in St Louis United States
+
+
+    </doc>
+    <doc id="7702788" url="https://en.wikipedia.org/wiki?curid=7702788" title="Sauce Amricaine">
+        Sauce Amricaine
+        Sauce amricaine is a recipe from classic French cookery containing chopped onions tomatoes white wine brandy
+        salt cayenne pepper butter and fish stock It is sometimes known as sauce armoricaine which is the original name
+        derived from Armorica the ancient name for a region of France including Brittany which is known for its fishing
+
+        Louis Saulnier gives the following recipe
+
+        Amricaine Treat as for Lobster Amricaine Pound shells and meat in the mortar and incorporate equal quantity of
+        fish velout add butter
+
+        As with many other classic dishes the original recipe has been adapted over time and almost every chef will
+        prepare the sauce in a slightly different way Modern recipes usually include tarragon will use lobster stock
+        rather than pounded lobster and often replace cayenne pepper with paprika
+
+
+    </doc>
+    <doc id="7702805" url="https://en.wikipedia.org/wiki?curid=7702805" title="Phil Nyokai James">
+        Phil Nyokai James
+        Phil Nyokai James is a professional shakuhachi Japanese bamboo flute teacher and performer as well as avantgarde
+        composer Born in New York City in 1954 James studied shakuhachi with Ronnie Nyogetsu Reishin Seldin and Yodo
+        Kurahashi After receiving his masters license shihan level he began teaching and performing throughout the
+        United States His shakuhachi dojo is centered in Portland Maine
+
+        James performances often juxtapose CsedTestWordNested Japanese meditative pieces honkyoku with electronic noise
+        music He frequently works with postmodern choreographers and butoh dancers
+
+
+    </doc>
+    <doc id="7702821" url="https://en.wikipedia.org/wiki?curid=7702821" title="Imagine That">
+        Imagine That
+        Imagine That may refer to
+
+
+    </doc>
+    <doc id="7702855" url="https://en.wikipedia.org/wiki?curid=7702855" title="SaturnShuttle">
+        SaturnShuttle
+        The SaturnShuttle was a preliminary concept of launching the Space Shuttle orbiter using the Saturn V rocket It
+        was studied and considered in 19711972
+
+        An interstage would be fitted on top of the SIC stage to support the external tank in the space occupied by the
+        SII stage in the Saturn V It was an alternative to the SRBs
+
+        The addition of wings and some form of landing gear on the SIC stage would allow the booster to fly back to the
+        Kennedy Space Center where technicians would then refurbish the booster by replacing only the five F1 engines
+        and reusing the tanks and other hardware for later flights
+
+        The Shuttle would handle space station logistics while Saturn V would launch components
+        This would have allowed a space station using a Skylab or Mir configuration with docking ports to have been
+        lifted with just a handful of launches The SaturnShuttle concept also would have eliminated the Space Shuttle
+        Solid Rocket Boosters that ultimately precipitated the Space Shuttle Challenger accident in 1986
+
+        Because the shuttle orbiter would be riding piggyback on the external tank and the need to prevent damage to the
+        delicate thermal protection tiles the fiveengine variant of the SaturnShuttle would require the center engine to
+        be shut down 45 to 50 seconds after launch while two of the outboard engines would have to be shut down prior to
+        staging Once the SIC was jettisoned the three onboard highenergy Space Shuttle main engines would then propel
+        the orbiter into LEO shutting down 65 minutes after ignition The external tank would then be jettisoned as on
+        the actually flown shuttle configuration and the orbiter would then perform its mission
+
+        But because of the need to keep costs down and to allow President Richard Nixon to approve the shuttle program
+        in 1972 NASA decided to utilize segmented solid rocket boosters similar to those used on the Titan III rocket
+        instead of the SIC thus ending the Saturn program after the initial Saturn V order was completed
+
+
+    </doc>
+    <doc id="7702859" url="https://en.wikipedia.org/wiki?curid=7702859" title="Westminster Christian Academy Georgia">
+        Westminster Christian Academy Georgia
+        Westminster Christian Academy WCA is a K12 private college preparatory Christian school Its campus is located at
+        1640 New High Shoals Road in Watkinsville Oconee County Georgia United States
+
+        Westminster Christian Academy was founded in the fall of 1988
+        The schools initial class was composed of 10 first second and third grade students meeting in rented space at
+        Faith Presbyterian Church in Watkinsville taught by Karen Schaefer The school grew alongside the oldest students
+        in this first class adding a new grade level after each school year
+
+        In 1994 enrollment in the school outgrew the capacity of its facilities at Faith Presbyterian As a result the
+        schools lower grades K4 remained at Faith and the higher grades 58 the highest grade offered at the time moved
+        to facilities at Watkinsville First Baptist Church WCAs first high school class graduated in the spring of 1999
+
+        The school completed the first phase of development at its present location a site in Oconee County in the fall
+        of 1998 An additional expansion has been planned that would add a new gymnasium and bring the schools capacity
+        to 500 students
+
+        The school enrolled 270 students across all grades for the 20112012 academic year
+
+        WCAs facilities include an administration building which also houses the library a lowerschool building which
+        houses PreK through fifth grade an upperschool building with a gymnasium and a fitness center which houses the
+        middle grades and Westminster High School a field house containing two class rooms and three athletic fields The
+        gymnasium houses ten classrooms
+
+        Uniforms are required on four out of five days for middle through high school on casual Friday students can wear
+        nontorn jeans and Tshirts A chapel is held every Thursday at separate times for K5 and 612 where all students
+        sing and listen to a guest speaker
+
+        WCA is accredited by the Georgia Accrediting Commission and has a dual accreditation with the Southern
+        Association of Independent Schools and the Southern Association of Colleges and Schools
+
+        WCAs athletics teams compete in Region 1A of the Georgia Independent School Association The school sponsors
+        teams in the following sports
+
+        The school claims that nearly 75 of the student body participates in an officially sanctioned sport
+
+
+    </doc>
+    <doc id="7702865" url="https://en.wikipedia.org/wiki?curid=7702865" title="Northgate Mall San Rafael">
+        Northgate Mall San Rafael
+        Northgate Mall is a shopping mall located in San Rafael California north of the Golden Gate Bridge Its the
+        largest of three shopping centers in San Rafael called Northgate It is managed by The Macerich Company It is the
+        only enclosed regional shopping center in Marin County The malls anchors are Macys and Kohls with a vacant
+        anchor last occupied by Sears It also contains a Century Theatres multiplex a food court and more than 90
+        specialty stores services and restaurants
+
+        The original anchor in the corner occupied by Macys was The Emporium which opened in 1964 When the rest of the
+        mall opened in 1965 it had an openair design The mall was enclosed when it was renovated in 1987
+
+        MTR Properties Inc was the original owner Macerich bought the mall in 1985 before selling it to Merlone Geier
+        Partners in 2017
+
+        On January 4 2018 Sears announced that its store at the mall will be closing as part of a plan to close 103
+        stores nationwide The store closed in April 2018 Around the same time plans were announced that would transform
+        the mall into a town center
+
+        Macerich began renovating the mall in 2008 The proposed renovation has been controversial as housing advocates
+        have pushed for inclusion of affordable housing in the project to replace the aging housing in the Canal Area
+        while Macerich chose to proceed without triggering a fullscale environmental review
+
+
+    </doc>
+    <doc id="7702868" url="https://en.wikipedia.org/wiki?curid=7702868" title="Cuba at the 1924 Summer Olympics">
+        Cuba at the 1924 Summer Olympics
+        Cuba competed at the 1924 Summer Olympics in Paris France It was the first time in 20 years that Cuban athletes
+        had competed at the Olympic Games
+
+        Six fencers all men represented Cuba in 1924 It was the nations third appearance in the sport as well as the
+        Games The allpe Cuban team included Ramn Fonst who had won three individual gold medals and a team gold medal in
+        1900 and 1904 Fonst was eliminated in the semifinal round while the Cuban pe team fell in the quarterfinals
+
+
+        Three sailors represented Cuba in 1924 It was the nations debut in the sport
+
+
+    </doc>
+    <doc id="7702892" url="https://en.wikipedia.org/wiki?curid=7702892" title="Relational dialectics">
+        Relational dialectics
+        Relational dialectics is an interpersonal communication theory about close personal ties and relationships that
+        highlights the tensions struggles and interplay between contrary tendencies The theory proposed respectively by
+        Leslie Baxter and Barbara Montgomery in 1988 defines communication patterns between relationship partners as the
+        result of endemic dialectical tensions
+
+        Relationships are made in dialogue and they can be complicated and dialogue with similarities and differences
+        are necessary Relational communication theories allow for opposing views or forces to come together in a
+        reasonable way When making decisions desires and viewpoints that often contradict one another are mentioned and
+        lead to dialectical tensions Leslie A Baxter and Barbara M Montgomery exemplify these contradictory statements
+        that arise from individuals experience dialectal tensions using common proverbs such as opposites attract but
+        birds of a feather flock together as well as twos company threes a crowd but the more the merrier This does not
+        mean these opposing tensions are fundamentally troublesome for the relationship on the contrary they simply
+        bring forward a discussion of the connection between two parties
+
+        The relational dialectic is an elaboration on Mikhail Bakhtins idea that life is an open monologue and humans
+        experience collisions between opposing desires and needs within relational communications Baxter includes a list
+        of dialectical tensions that reminds us that relationships are constantly changing and that successful and
+        satisfying relationships require constant attention Although Baxters description of relational dialectics is
+        thorough it is not exact or all inclusive since we all experience different tensions in different ways
+
+        Relational dialectics is the emotional and valuebased version of the philosophical dialectic It is rooted in the
+        dynamism of the yin and yang Like the classic yin and yang the balance of emotional values in a relationship is
+        constantly in motion and any value pushed to its extreme contains the seed of its opposite
+
+        In the Western world the ideas of ying and yang link back to the Greek philosopher Heraclitus who argued that
+        the world was in constant flux like fire with creative and destructive forces on both sides of every process
+        Mikhail Bakhtin a Russian scholar most known for his work in dialogism applied Marxist dialectic to literary and
+        rhetorical theory and criticism He illustrated the tensions that exists in the deep structure of all human
+        experience For example he identified that the tension that exists between unity and difference Bakhtin conceived
+        the human dialectic as two forces analogous to the physical forces centripetal emotional forces tending towards
+        unity and centrifugal emotional forces tending towards divergence Like the Yin and Yang Bakhtins forces have no
+        ultimate resolution
+
+        Baxter took the deep structural analysis of Bakhtin and applied it to communication theory She found a TBangha
+        of axes where this dynamic tension operated Later authors have added other axes
+
+        There are three main approaches to relational dialectics monologic dualistic and dialectic br
+
+        The first approach monologic approach frames contradictions as eitheror demonstrating that the contradictions
+        are mutually exclusive or opposite of each other For example an individual can either like hot or cold weather
+        They may not like not a mix of the weather conditions Monologic approach means as we move closer to one concept
+        we move further away from the other br
+
+        The second approach dualistic approach frames contradictions as two separate entities showing that they are
+        unrelated in nature When studying a relationship and one individual in the relationship is evaluated exclusive
+        of his or her interaction with their partner then this is an example of dualistic approach br
+
+        The third approach the dialectic approach contends that multiple points of view play off one another in every
+        contradiction bothand When two people are in a relationship one can desire to be open in the relationship
+        exposing certain parts of his or her life with the other person At the same time that individual can also have a
+        sense of selfprotection where they may not want to share everything about them with their partner Both of these
+        feelings can exist within the individual at the same time
+
+        There are four main concepts that form the backdrop of relational dialectics as well as four major assumptions
+        Relational dialectics assumes that 1 relationships are not linear 2 relational life is characterized by change 3
+        contradiction is the fundamental fact of relational life and 4 communication is central to organizing and
+        negotiating relational contradictions
+
+        The four core concepts of relational dialectics include contradiction totality process and praxis
+
+        Contradictions are the core concept of relational dialectics It is the dynamic interplay between unified
+        oppositions A contradiction is formed whenever two tendencies or forces are interdependent unity yet mutually
+        negate one another negation For example in a relationship one can simultaneously desire intimacy and distance
+
+        Totality suggests that contradictions in a relationship are part of a unified whole and cannot be understood in
+        isolation In other words the dialectics cannot be separated and are intrinsically related to each other For
+        example the tension between dependence and interdependence cannot be separated from the tension between openness
+        and privacy both work to condition and define the other
+
+        Process Relational dialectics must be understood in terms of social processes Movement activity and change are
+        functional properties Rawlins1989 For example instances such as an individual fluctuating between disclosure and
+        secretiveness In addition the individual may move between periods of honest and open communication Miller 2002
+        2005
+
+        Praxis is a philosophical term for the concept of practical behavior or sometimes the experience of practicing
+        In praxis the dialectic tensions are created and recreated through the active participation and interaction In
+        other words the practical experience of having a relationship exposes one to the imposition of the needs and
+        values of another As the relationship endures ones own needs and values become apparent Praxis focuses on the
+        practical choices individuals make in the midst of the opposing needs and values dialectical tensions In turn
+        the choices and actions themselves create recreate and change the nature of the relationship and hence the
+        dialectical tensions themselves
+
+        Research has recommended theories which further dialectical understanding in relationships such as in marriage
+        in the workplace etc Relational dialectics further includes the idea of Contextual Dialectics or rather the idea
+        that every relationship exists within a specific place within a specific culture From there we also see the
+        raise of public and privatereal and ideal dialectics and the interplay between what is seen on television in
+        public life versus what is experienced in private lives Examples of this concept include the viewing of
+        politicians as well as what is viewed on television shows According to West and Turner the tension of the real
+        and ideal dialectic is featured when we think of television shows like Leave It to Beaver We receive an
+        idealized message of what family life is like and then when we look at the families we live in we have to
+        contend with the troublesome realities of family life The tension between these two images forms this dialectic
+
+        According to the original relational dialectic model there were many core tensions opposing values in any
+        relationship These are autonomy and connectedness favoritism and impartiality openness and closedness novelty
+        and predictability instrumentality and affection and finally equality and inequality
+
+        Autonomy and connectedness refers to the desire to have ties and connections with others versus the need to
+        separate oneself as a unique individual An example of autonomy and connectedness would be an athlete who wants
+        to feel like heshe is a part of a team but also wanting to highlight hisher individual talents Favoritism and
+        impartiality refers to the desire to be treated fairly and impartially versus the desire to be seen and known as
+        special For instance a professor may want to be impartial by creating an attendance policy but makes exceptions
+        for students who participate in class and have good grades demonstrating favoritism Openness and closedness
+        refers to the desire to be open and divulge information versus the desire to be exclusive and private When
+        chatting with a boss about ones weekend there is the desire to be open however closedness is also at play as
+        certain details are often left out because of the context Novelty and predictability suggest that there is a
+        desire for the relationship to be predictable versus the desire for it to be original and new When creating
+        scheduled meetings for board members the predictability may lie in a fixed schedule however the novelty may be
+        in scheduling a varying number of locations to peak interests as well as inspiration Instrumentality and
+        affection is the desire for affection to be genuine versus the desire for affection to be motivated by benefits
+        and perceived advantages of the relationship An example of this would be being in a romantic relationship based
+        on love and affection but maintaining it for benefits such as financial security Finally equality and inequality
+        refers to the desire to be considered as equals versus the desire to develop levels of superiority A female in
+        the military may seek treatment equivalent to that received by her male colleagues but requires special barracks
+        and adjusted assignments
+
+        According to the theory while most of us may embrace the ideals of closeness certainty and openness in our
+        relationships the communication is not a straight path towards these goals Conflicts often produce the exact
+        opposites
+
+        The table above shows typical dialectical tensions experienced by relational partners based on research done by
+        Baxter and Montgomery showing contrasting efforts in two different ways The column that displays examples of
+        Internal Dialect shows ongoing tensions played out within a relationship The column that displays examples of
+        External Dialect shows ongoing tensions between a couple and their community
+
+        Integrationseparation is a class of relational dialectics that includes connectionautonomy inclusionseclusion
+        and intimacyindependence Some individual autonomy must be given up to connect to others
+
+        Stabilitychange is a class of relational dialectics that includes certaintyuncertainty conventionallyuniqueness
+        predictabilitysurprise and routinenovelty Things must be consistent but not mundane There must be a balance
+        between the expected and unexpected in order to keep a relationship
+
+        Expressionnonexpression is a class of relational dialectics that includes opennessclosedness
+        revelationconcealment candorsecrecy and transparencyprivacy In a relationship it is important to keep some
+        things between the two parties while other parts of the relationship are okay to allow the public to know about
+
+        According to Michaela Meyer relational dialectics theory exposes tensions within interpersonal relationships
+        while at the same time it assumes a continual maintenance and repair of these tensions As a result relational
+        dialectics theory is incredibly useful for defining how tensions are managed within relationships Extensive
+        research has been done regarding the role dialectical tensions play in relationships as well as the various
+        factors that influence the tensions and the degree to which they affect the relationship Through studies of
+        romantic relationships long distance relationships friendships and family relationships researchers have
+        observed the existence and frequency of certain dialectical tensions within various types of relationships
+
+        According to Marsha Linehan founder of DBT or Dialectical Behavior Therapy some people have great difficulty
+        resolving the dialectic tensions that arise in relationships Many people with personality disorders potentially
+        caused or made worse by dysfunctional upbringing especially Borderline Personality Disorder BPD and some others
+        perpetually vascilate between the poles of the dialectic conflict with resulting instability causing problems in
+        living that are not mediated by other therapy modalities In DBTs biosocial theory some people have a biological
+        predisposition for emotional dysregulation and their social environment validates maladaptive behavior
+
+        A study of 25 heterosexual married couples was designed to determine what types of dialectical tensions were
+        most prevalent in antagonistic conflicts between spouses Larry Erbert found that the Openness v Closedness
+        dialectic was most commonly referenced through examples by participants Research conducted by Baxter and
+        Montgomery confirmed this finding and broke the dialectic down into four subcategories to further analyze its
+        existence in romantic relationships
+
+
+        Research has been conducted to examine the autonomyconnection dialectic when dealing with termination of
+        romantic relationships In Erin Sahlestein and Tim Duns study they found that participants joint conversations
+        and their breakup accounts reflect the two basic forms of contradiction Both antagonistic and nonantagonistic
+        struggles were evident in these data Furthermore the study discovered that while normally breakups are
+        retroactively studied the autonomyconnection dialectic is actually in full swing throughout the termination
+        process as opposed to previous thought of as a move from connection to autonomy
+
+        A study measuring the display of symbols by lesbian couples revealed that while samesex couples experience
+        similar challenges that oppositesex partners experience there are unique challenges that arise to these samesex
+        couples These unique problems in turn give rise to unique dialectical tensions within the relationship
+
+        In a study that focused on dialectics in second marriages six tensions unique to remarriages emerged
+
+        Three tensions related to the remarried dyad
+
+
+        Three tensions also emerged from the remarried dyad and their social networks
+
+
+        Based on research by Sahlstein the uncertainty v certainty dialectic is the most prevailing dialectic found in
+        longdistance relationships Her work exposed uncertainty v certainty as a competing yet complementary need In
+        interviews conducted with couples engaged in long distance relationships contradictions emerged For example
+        couples were found to plan interactions in order to obtain a level of spontaneity Within this three different
+        forms of the praxis of relational dialectics emerged
+
+        William Rawlins has examined the role of relational dialectics in regard to friendships The tension of
+        instrumentality v affection was found to be the most central to this type of relationship Within friendships
+        importance is placed on the ability to discern the level of affection for real friendships opposed to
+        instrumentality for fake friendships Aristotles friendship of virtue notion of caring for friends without
+        instrumental purposes exemplifies this point The dichotomy of instrumentality v affection cannot be ignored
+        within friendships as affection may be offered in order to receive instrumental aid from friends This
+        interweaving of concepts is what distinguishes different types of friendships While this remains true the
+        subjectivity of the friends in question ultimately determines the outcome of how heavily instrumentality v
+        affection is applied
+
+        In the workplace
+
+        Blended Relationships are close friends that are a part of the same work environment Dialectical tensions occur
+        in organizations as individuals attempt to balance their roles as employees while maintaining established
+        friendships within their occupations It is not necessary however to have a friend in organizations to experience
+        dialectical contradictions Stress occurs frequently on the individual level as human needs and desires oppose
+        Sibling relationships
+
+        Relational dialectics can be applied when considering the significant change in family life that siblings
+        experience when one sibling moves out of the family home for the first time as part of the transition into
+        adulthood As one sibling begins a new phase of life this change is often accompanied by new friendships or
+        romantic relationships that occur in hisher new lifestyle along with a new geographic separation both of which
+        result in a change in communication As the newly absent sibling begins a new lifestyle beyond hisher home the
+        preexisting sibling relationship goes through various changes and transitions
+
+        In a study conducted on discursive struggles among siblings experiencing transition all participants
+        acknowledged that moving away from their siblings resulted in a discursive struggle between the old and new
+        meanings in the sibling relationship Two specific discursive struggles were identified
+
+        While participants addressed the varying tensions involved with lifestyle transitions 8 of the 19 participants
+        in the study expressed that moving away from their sibling strengthened their connection and appreciation for
+        their brothers andor sisters
+
+        In a study focusing on the adult stepchild perceptions of communication in the stepchildstepparent relationship
+        three contradictions were found to be experienced by the stepchildren participants
+
+        In another study researchers aimed to identify the contradictions that were perceived by stepchildren when
+        characterizing the ways that familial interactions caused them to feel caught in the middle between parents The
+        participants expressed that they wanted to be centered in the family while at the same time they hoped to avoid
+        being caught in the middle of two opposing parents The main contradiction identified in the study was similar to
+        the autonomyconnection dialectic stepchildren desired the freedom to communicate and enact the desired
+        relationship with their parents However these stepchildren also felt the need to manage the constraints that
+        resulted from parental communication particularly when both parents did not cooperate with one another While the
+        stepchildren wanted to know what was happening at the same time they also wanted to be protected resulting in a
+        second dialectic of controlrestraint Through this study the researchers believe that opennesscloseness dialectic
+        between parents and their children is important to building functional stepfamily relationships
+
+        One study focused on the relationship and communication between collegeaged stepchildren and their
+        nonresidential parents found two underlying contradictions parenting and not parenting and openness and
+        closeness Many participants expressed that they wanted their nonresidential parent to be actively involved in
+        parenting them but did not desire it once they were Participants also expressed that while they wanted open and
+        intimate communication with their nonresidential parents they felt that they could not closely communicate
+        because of the nonresidential parents lack of familiarity with the childs everyday life
+
+        Relational dialectics theory can be applied to the context of health care specifically endoflife care providing
+        a system for caregiver communication that contains tensions and challenges The quality of the endoflife journey
+        is influenced by how these tensions are managed Relational dialectics theory is an applicable framework for
+        investigating the ongoing communication between physicians and their patientsfamily members during the process
+        of endoflife care
+
+        When making choices about endoflife medical care family members friends or surrogate decision makers often
+        experience feelings of tension and burden Decisionmakers must deal with the relational and moral tensions that
+        come with such decisionmaking Family members in charge of making endoflife decisions often face conflicting
+        emotions between holding on and letting go recognizing the need to let a patient go while wanting to continue
+        fighting to keep a loved one alive
+
+        In a study that focused on the communication tensions perceived among the Maori culture during the endoflife
+        journey it was found that despite the cultures focus on collectivism and its emphasis on harmony four
+        communication tensions existed between caregivers family and friends and patients autonomy and connection
+        conflict and connection isolation and connection and balancing the needs of self and other
+
+        The human grieving process is marked by relational dialectics After the death of a child bereaved parents often
+        experience tension between presence and absence by grieving their childs permanent absence while still
+        experiencing an emotional bond toward the deceased child Bereaved parents may also experience tension between
+        openness and closeness where they desire to discuss their feelings with friends or family yet they are hesitant
+        to share because of the potentially negative reactions they could receive
+
+        One study aimed at focusing on how families make sense of contradictory discourses found two discursive
+        contradictions family members wishes vs patients wishes and emotionality vs rationality Through interviews with
+        participants who had experienced the loss of a loved one researchers concluded that many of the end of life
+        decisions made by family members patients and doctors were centered on making sense of the simultaneous desires
+        to hold on and to let go Participants recognized that they experienced tension between their own preferences and
+        the preferences of a loved one and with that experienced the tension between desiring to make decisions based on
+        emotions versus making decisions based on rationality
+
+        Dialectical contradictions have also been found among parents who have lost a child One study found that two
+        primary dialectical contradictions occurred for parents who had experienced the death of a child
+        opennesscloseness and presenceabsence Parents experienced opennesscloseness when they desired to talk about
+        their child and their loss yet they perceived the outcome as risky especially if they sensed that friends and
+        family wished for the parents to move on Participants explained that they were able to manage this contradiction
+        by being selective with their disclosure and taking control over the communicative situation When dealing with
+        the presenceabsence dialectic bereaved parents experienced tensions between the ongoing bond that they
+        experienced with their child and the physical absence of the child Participants expressed that when people were
+        not willing to remember their dead child the physical absence of the child was deeply felt However when people
+        chose to remember the deceased child the parent experienced feelings of comfort and continual bonding with the
+        child
+
+        Understanding Autistic Communication
+
+        As relational dialects aim is to analyse competence during interaction it can suggest an approach to researching
+        on communication competence among people which are with autism spectrum disorders Applying relational dialects
+        theory to studying interactions of autistic individuals starts from approaching autistic individual as an actor
+        during the interaction and deeming competence a result of the interaction This approach can delve into how
+        social contexts expectations and roles contribute to the autistics competent communication The investigation of
+        dialects includes integrationseparation expressionprivacy and stabilitychange enhance the understanding of the
+        communication between people with autism spectrum disorders
+
+        Dialogue is typically a conversation between two or more people These conversations are what constitute
+        relationships as communication is the very foundation of any relationship According to Cools the four important
+        concepts that form the foundation of dialogism 1 the self and the other situated in contradictory forces 2
+        unfinalizability 3 the chronotope and the carnivalesque and 4 heteroglossia and utterance Similarity in dialogue
+        the following components are the most important constitutive dialogue utterance chains dialectical flux
+        aesthetic moment and critical sensibility
+
+        Constitutive dialogue
+
+        While some theorists along with Baxter may argue that communication is simply a feature in a relationship
+        examining constitutive dialogue suggests that communication is actually what creates and maintains a
+        relationship instead According to Baxter a constitutive approach to communication asks how communication defines
+        or constructs the social world including our selves and our personal relationships From a constitutive
+        perspective then persons and relationships are not analytically separable from communication instead
+        communication constitutes these phenomena When initial researchers studied relationships they found that
+        similarities backgrounds and interests are usually what hold people together while selfdisclosure is the root of
+        these components Dialogic researchers would argue that differences are just as important as similarities and
+        they are both discovered through dialogue
+
+        Utterance chains
+
+        To understand utterance chains we must know that an utterance is what a person says in one turn of a
+        conversation When utterances are linked to competing discourses they are considered utterance chains Baxter
+        believes that there are four links on the chain where the struggle of competing discourses can be heard These
+        are cultural ideologies relational history nonyet spoken response of partner or utterance and normative
+        evaluation of third party to utterance Baxter also suggest that to understand an utterance we must also
+        understand the discourse She posits in the broadest sense a discourse is a cultural system of meaning that
+        circulates among a groups members and which makes our talk sensical for example in the United States the
+        discourse of individualism helps us to understand and value an utterance such as I need to find myself first
+        before I commit to a serious relationship with another person
+
+        Dialectical flux
+
+        A dialectical flux is the unpredictable unfinalizable indeterminate nature of personal relationships
+        Relationships are complicated and intertwined with dialectical tensions Spiraling inversion and segmentation are
+        two strategies that Baxter and Montgomery have established to respond to this complexity Spiraling inversion is
+        generally a nowin situation a struggle between two different thought processes For example if you were to do
+        something your parents did not approve of you could lie about it but your parents might yell at you for lying
+        And on the other hand you could tell them upfront and they could be completely quiet in shock Segmentation is
+        pertaining to more than one role in a relationship that must be altered depending on the situation For example
+        if you were working at your fathers shop as a parttime job he would be considered your father AND your boss This
+        could mean that he has different expectations of you in different circumstances and his attitude towards you
+        might change between roles
+
+        Aesthetic moment
+
+        Aesthetic moments are brief incidents in a relationship that bring participants together through the use of
+        dialogue There is a temporary feeling of wholeness felt between partners involved in this dialogue It is easy to
+        see examples of aesthetic moments in romantic relationships such as a first kiss or a reciting of wedding vows
+        but these moments can be experienced by anyone
+
+        Critical sensibility
+
+        According to Griffin critical sensibility is an obligation to critique dominant voices especially those that
+        suppress opposing viewpoints a responsibility to advocate for those who are muted This means that both sides of
+        a dialogue are equal to one another No one person is more powerful or dominant than the other and they are able
+        to communicate without these imbalances interfering This does not mean that the dialogue is free of competing
+        discourses as listed in Utterance Chains
+
+        When communicating we must understand that morals do not apply for all people Sometimes lying can be entirely
+        minor in communication but there are oftentimes that lying can majorly affect the perspective of those being
+        lied to There are several times where most people would justify a white lie or a lie that causes no harm For
+        instance if your mother was in the hospital you could tell her she still looked beautiful even if her appearance
+        was far from it because it would make her feel better Other actions that are only followed through based on
+        whether they have a positive or negative outcome are called consequential ethics According to Sissela Bok lies
+        drag around an initial negative weight that must be factored into ethical equations Bok believes in the
+        principle of veracity which says that truthful statements are preferable to lies in the absence of special
+        circumstances that overcome the negative weight Ethics plays a major role in the study of interpersonal
+        communication particularly relational dialectics In an area where contradictions seem like the norm it is even
+        more important to share the truth Incorporating varying and often times opposite view points is critical because
+        communication is grounded in human nature which forces ethics
+
+        According to theorist Leslie Baxter there are three major limitations in the work of relational dialectics
+        theory Baxter claims that her work has been too distanced from naturally occurring talk between relating parties
+        and claims that the theory needs a firmer empirical base when applied to talk between relating parties Naturally
+        occurring talk between relating parties could be qualitative work utilizing the observation method of relating
+        parties or small groups Nonparticipative or participative observation would be appropriate for continued study
+        of relational dialectics theory Baxter also believes that more future work needs to include multiple voices
+        instead of focusing on the more popular research on the dialectics between two voices Baxter posits that
+        relational dialectics opposite infers binary opposites when many discourses can be competing at once Lastly
+        Baxter shares that future research should focus on discourse through time such as studying dialogue and how it
+        transforms over a longer period of time The latter would take significant time so it would be studies that
+        incorporate earlier works compared to more recent work
+
+
+        Publications
+
+        nowiki
+
+
+    </doc>
+    <doc id="7702893" url="https://en.wikipedia.org/wiki?curid=7702893" title="WVAR">
+        WVAR
+        WVAR is an radio station located in Richwood West Virginia that plays a classic hits format
+
+        The station also carries West Virginia University basketball and Richwood High School sports While it simulcasts
+        sister station WSGB fulltime WVAR breaks away for sports broadcasts
+
+        WVAR first went on the air on November 16 1957 and first broadcast at 1280 AM under the call letters WMNF The
+        original owner was Royal Broadcasting Company of which Herman Dotson served as president and Art Grunewald as
+        general manager Studios were located along Cemetery Road in Richwood By 1959 the call letters were changed to
+        WVAR as they remain today
+
+        On January 1 1965 WVAR was sold to R S Broadcasting Carl Gainer was the new company president and Virgil Graves
+        became General Manager In 1968 WVAR moved from its dial position of 1280kHz to 600kHz The station retained its
+        daytimeonly broadcast hours and output power of 1000 watts
+
+        In 1991 WVAR moved its studios and offices to 713 Main Street in Summersville but would maintain a local
+        presence in Richwood at 2 Rhododendron Drive formerly known as Cemetery Road On December 24 1996 after more than
+        30 years of ownership WVAR was sold by R S Broadcasting to J K Broadcasting The ownership change also resulted
+        in the pairing of an FM sister station WAFD which had gone on the air earlier that year with a southern and
+        country gospel format
+
+        In midFebruary 2003 an ice storm that ravaged the southern part of West Virginia toppled the WVAR broadcasting
+        antenna atop Hinkle Mountain which overlooks Richwood In the following summer the station and its owner raised
+        funds to erect a new antenna The station was closed with a dark license while funds were sought to replace it
+
+        On March 13 2007 J K Broadcasting Inc sold WVAR to Summit Media Broadcasting LLC for 124 million in a
+        transaction that included sister FM station WAFD in Webster Springs Summit Media also owns WDBSFM and WSGBAM
+        Studios were moved to 202 Back Fork Street in Webster Springs
+
+        On May 15 2007 WVAR dropped its country format and began simulcasting sister WSGBAMs oldies format as The Mighty
+        1490 That October Summit Media filed an application with the FCC to waive main studio requirements for WVAR
+        which would allow onair operations to be colocated with WSGB and other stations in Summit Medias ownership group
+
+        Two months later another application was filed informing the FCC that Summit Media had taken the station silent
+        due to Summit Medias inability to successfully meet FCCrequired staffing needs at the Webster Springs studio The
+        FCC granted the application to keep the station silent in January 2008 until granting permission for the studio
+        waiver later that year However Summit Media kept the station silent for another year due to technical
+        renovations being delayed due to the lack of available workforce
+
+        In November 2009 Summit Media filed an application to rebroadcast WVARs signal over FM translator W251AY
+        licensed to Birch River The translator licensed to operate at 981 mHz broadcasts at 250 watts at a height of 256
+        m above average terrain The translator which has been on the air since 2004 had been previously used to
+        rebroadcast the signal of sister FM station WDBS
+
+
+    </doc>
+    <doc id="7702894" url="https://en.wikipedia.org/wiki?curid=7702894" title="John Blair">
+        John Blair
+        John Blair may refer to
+
+
+    </doc>
+    <doc id="7702907" url="https://en.wikipedia.org/wiki?curid=7702907" title="The Night of the Mary Kay Commandos">
+        The Night of the Mary Kay Commandos
+        The Night of the Mary Kay Commandos is the seventh collection of the comic strip series Bloom County by Berkeley
+        Breathed It was published in 1989
+
+        It is preceded by Tales Too Ticklish to Tell and followed by Happy Trails
+
+        The book includes smellotoons intended to enhance the Mary Kay storyline At a pivotal point in the story the
+        reader is instructed to lift a flap and smell a scented strip
+
+
+    </doc>
+    <doc id="7702910" url="https://en.wikipedia.org/wiki?curid=7702910" title="Oboe Concerto Marcello">
+        Oboe Concerto Marcello
+        The Oboe Concerto in Dminor SD935 is an early 18thcentury concerto for oboe strings and continuo attributed to
+        the Venetian composer Alessandro Marcello The earliest extant manuscript containing Johann Sebastian Bachs solo
+        keyboard arrangement of the concerto BWV974 dates from around 1715 As a concerto for oboe strings and continuo
+        its oldest extant sources date from 1717 that year it was printed in Amsterdam and a Cminor variant of the
+        concerto SZ799 was written down
+
+        Bachs keyboard version was published as an arrangement of a concerto by Antonio Vivaldi in the 19th century In
+        1923 the Cminor version of the oboe concerto was published as a composition by Benedetto Marcello Alessandros
+        brother In the second half of the 20th century several publications indicated Alessandro again as the composer
+        of the piece as it had been in its early 18thcentury print and the oboe concerto was again published in its
+        Dminor version
+
+        As well oboe concerto versions and versions based on Bachs arrangement kept repertoire in the 20th and 21st
+        century
+
+        The Concerto in Dminor SD935 was published by Jeanne Roger in Amsterdam in 1717 as a Concerto a Cinque concerto
+        in five parts for oboe soloist strings two violin and one viola parts and continuo composed by Alessandro
+        Marcello No publication date appears in the print although the year of publication is depending on author
+        sometimes given as ca 17141717 or 1716 it can be inferred from the consecutive testaments of the publishers
+        father Estienne Roger and from the sequence of publication numbers The publication presents the melody lines
+        unadorned that is it is left to the performing musician to embellish melodies with ornaments such as trills
+        mordents and grace notes Alessandro Marcello published most of his works under a pseudonym Eterio Stinfalico the
+        oboe concerto publication was an exception in that sense as it used his real name
+
+        In his Weimar period 170817 Johann Sebastian Bach arranged several concertos by Venetian composers most of them
+        by Antonio Vivaldi for solo keyboard In July 1713 Prince Johann Ernst returned to Weimar from the Netherlands
+        with several compositions by Italian masters Vivaldis Op3 Lestro Armonico had been published in Amsterdam in
+        1711 and there is little doubt that the Prince brought this edition containing twelve concertos to Weimar in
+        1713 as Bach apparently used this print for five of his solo keyboard arrangements The Prince who also composed
+        Italianate concertos presumably encouraged Bach to produce solo keyboard arrangements of such works As the
+        Prince left Weimar in July 1714 it is estimated that most of Bachs solo keyboard arrangements of Italian and
+        Italianate concertos originated in the period from July 1713 to July 1714 That is at least those arrangements
+        that could be performed on a harpsichord without pedalboard while the Weimar court organ which would be needed
+        for arrangements including pedals such as BWV 592597 would have been unavailable for undergoing repairs in this
+        period
+
+        Bachs manualiter arrangement BWV974 of the Marcello concerto was apparently not based on the Amsterdam edition
+        but must have been based on a lost manuscript version of the concerto that circulated before it was printed The
+        July 1713 to July 1714 timeframe may fit for the production of the arrangement of this concerto although an
+        earlier or later date is possible too Bachs autograph of the solo keyboard arrangement is lost but the
+        arrangement was copied around 1715 by Bachs second cousin Johann Bernhard as the third item in a manuscript
+        containing 12 of Johann Sebastians keyboard transcriptions of Italian and Italianate concertos In 1739 Johann
+        Bernhards son Johann Ernst wrote a title page for this collection suggesting that the collection contained
+        Vivaldi arrangements for organ exclusively He may have intended this title page for the first concerto in the
+        collection only which was indeed an arrangement of a Vivaldi concerto but an unknown hand later added the number
+        XII before the title thus causing the misunderstanding that all 12 were Vivaldi arrangements Another copy of
+        Bachs arrangement indicates Marcello without first name as the composer of the original work and JS Bach as the
+        arranger That copy specifying harpsichord as the intended instrument for the arrangement originated after Johann
+        Bernhards but may have been copied from an earlier stage of Bachs arrangement Another manuscript containing
+        Bachs arrangement of Marcellos oboe concerto indicated JSB as composer on the title page without mentioning an
+        earlier model or its composer for the composition
+
+        The ornamentation as indicated in Bachs keyboard version of the concerto works well on harpsichord but is less
+        suitable for performance on an early 18thcentury oboe Nonetheless Bachs ornamentation has been used for
+        20thcentury publications of the oboe concerto the ornamentation causes fewer problems when performed on a modern
+        oboe Editions of the Dminor version of the oboe concerto with an ornamentation which is better in line with the
+        possibilities of a baroque oboe have been proposed since the late 20th century
+
+        Another transcription of the concerto as concerto a 5 for oboe strings and continuo in Cminor is found in a 1717
+        manuscript The type of errors in this manuscript seems to suggest that the transposition from Dminor to Cminor
+        may have been produced by its scribes while copying This manuscript writes the composers name as Marcello
+        without specifying a first name as Alessandros brother Benedetto was far better known as a composer by the name
+        Marcello later generations would interpret the title of the manuscript as referring to the better known of the
+        Marcello composers
+
+        The piece has three movements
+
+        The concerto survives in different printed and manuscript versions one of these in C minor
+
+        The concerto has also been recorded played on a piccolo trumpet a notoriously challenging transcription due to
+        the breath control and tight embouchure required for its sustained passages in the higher register
+
+        Manuscripts
+
+        Score publications
+
+        Writings
+
+
+    </doc>
+
+</class>

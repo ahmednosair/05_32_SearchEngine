@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d794d86d-faf3-4891-a7de-f795226eb0b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b5nIxwx2rrv9MzfroGSHF1zpAW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wiki_samples/nested" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wiki_samples/nested/DoubleNested" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wiki_samples/nested" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/eg/edu/alexu/csd/filestructure/btree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UnitTest">
+    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_32_SearchEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.filestructure.btree.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.filestructure.btree.test" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.filestructure.btree.test.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testDeleteAllIndexedWebPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_32_SearchEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.filestructure.btree.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.filestructure.btree.test" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.filestructure.btree.test.UnitTest" />
+      <option name="METHOD_NAME" value="testDeleteAllIndexedWebPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testDeleteWebPageUnIndexedWebPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_32_SearchEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.filestructure.btree.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.filestructure.btree.test" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.filestructure.btree.test.UnitTest" />
+      <option name="METHOD_NAME" value="testDeleteWebPageUnIndexedWebPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testindexWebPageNullorEmptyorNotFoundParamter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_32_SearchEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.filestructure.btree.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.filestructure.btree.test" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.filestructure.btree.test.UnitTest" />
+      <option name="METHOD_NAME" value="testindexWebPageNullorEmptyorNotFoundParamter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testsearchByMultipleWordWithRanking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05_32_SearchEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.filestructure.btree.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.filestructure.btree.test" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.filestructure.btree.test.UnitTest" />
+      <option name="METHOD_NAME" value="testsearchByMultipleWordWithRanking" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnitTest" />
+        <item itemvalue="JUnit.UnitTest.testindexWebPageNullorEmptyorNotFoundParamter" />
+        <item itemvalue="JUnit.UnitTest.testsearchByMultipleWordWithRanking" />
+        <item itemvalue="JUnit.UnitTest.testDeleteWebPageUnIndexedWebPage" />
+        <item itemvalue="JUnit.UnitTest.testDeleteAllIndexedWebPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d794d86d-faf3-4891-a7de-f795226eb0b9" name="Default Changelist" comment="" />
+      <created>1587930745553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587930745553</updated>
+      <workItem from="1587930746813" duration="14261000" />
+      <workItem from="1588016999996" duration="14467000" />
+      <workItem from="1588075693582" duration="5000" />
+      <workItem from="1588102491301" duration="31655000" />
+      <workItem from="1588188660640" duration="47166000" />
+      <workItem from="1588252601967" duration="1063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="125" width="1720" height="806" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588106361513">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="100" y="125" width="1720" height="806" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1588106361513" />
+    <state x="659" y="333" width="581" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588220649646">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="659" y="333" width="581" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1004@0.27.1920.1004" timestamp="1588220649646" />
+    <state x="768" y="240" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1588224724760">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="768" y="240" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1004@0.27.1920.1004" timestamp="1588224724760" />
+    <state x="718" y="180" key="#xdebugger.evaluate" timestamp="1588225651613">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="718" y="180" key="#xdebugger.evaluate/0.27.1920.1004@0.27.1920.1004" timestamp="1588225651613" />
+    <state x="582" y="271" width="735" height="513" key="FileChooserDialogImpl" timestamp="1588102796752">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="582" y="271" width="735" height="513" key="FileChooserDialogImpl/0.27.1920.1004@0.27.1920.1004" timestamp="1588102796752" />
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom" timestamp="1588251138611">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138611" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center" timestamp="1588251138610">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.center/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138610" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left" timestamp="1588251138609">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.left/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138609" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right" timestamp="1588251138611">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.right/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138611" />
+    <state width="1874" height="277" key="GridCell.Tab.1.bottom" timestamp="1588251138612">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.bottom/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138612" />
+    <state width="1874" height="277" key="GridCell.Tab.1.center" timestamp="1588251138611">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.center/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138611" />
+    <state width="1874" height="277" key="GridCell.Tab.1.left" timestamp="1588251138611">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.left/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138611" />
+    <state width="1874" height="277" key="GridCell.Tab.1.right" timestamp="1588251138612">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.1.right/0.27.1920.1004@0.27.1920.1004" timestamp="1588251138612" />
+    <state x="443" y="105" width="1024" height="845" key="SettingsEditor" timestamp="1588102798534">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="443" y="105" width="1024" height="845" key="SettingsEditor/0.27.1920.1004@0.27.1920.1004" timestamp="1588102798534" />
+    <state x="100" y="125" width="1720" height="806" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588247504293">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="100" y="125" width="1720" height="806" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1588247504293" />
+    <state x="616" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1588252609803">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="616" y="355" key="com.intellij.ide.util.TipDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1588252609803" />
+    <state x="632" y="424" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588126610358">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="632" y="424" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1920.1004@0.27.1920.1004" timestamp="1588126610358" />
+    <state x="705" y="147" width="500" height="762" key="refactoring.ChangeSignatureDialog" timestamp="1588137719230">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="705" y="147" width="500" height="762" key="refactoring.ChangeSignatureDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1588137719230" />
+    <state x="624" y="241" key="run.anything.popup" timestamp="1588237827924">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="624" y="241" key="run.anything.popup/0.27.1920.1004@0.27.1920.1004" timestamp="1588237827924" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/eg/edu/alexu/csd/filestructure/btree/test/UnitTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/eg/edu/alexu/csd/filestructure/btree/test/UnitTest.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/eg/edu/alexu/csd/filestructure/btree/test/UnitTest.java</url>
+          <line>644</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/eg/edu/alexu/csd/filestructure/btree/test/UnitTest.java</url>
+          <line>921</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/eg/edu/alexu/csd/filestructure/btree/test/UnitTest.java</url>
+          <line>1075</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/eg/edu/alexu/csd/filestructure/btree/test/UnitTest.java</url>
+          <line>703</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
